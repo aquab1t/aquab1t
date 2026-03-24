@@ -4,7 +4,7 @@
 
 I bridge the gap between rigorous systems engineering and marine science. As an automation engineer turned PhD Candidate in Marine Sciences, I build end-to-end data pipelines for satellite remote sensing and develop ocean hydrodynamic models to study ecological connectivity. 
 
-## 🔭 What I'm Working On
+## What I'm Working On
 
 - **Kelp Forest Dynamics:** Detecting *Nereocystis luetkeana* and *Macrocystis pyrifera* from Sentinel-2 imagery across the Northeast Pacific (2015–2025).
 - **Kelp Spore Dispersal Modeling:** Simulating population connectivity in British Columbia using the FVCOM hydrodynamic model (804K-node unstructured mesh) paired with OpenDrift/OceanParcels Lagrangian particle tracking.
