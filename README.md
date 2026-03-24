@@ -40,10 +40,10 @@ I bridge the gap between rigorous systems engineering and marine science. As an 
 
 ## Background
 
-- **PhD in Marine Sciences** — CICIMAR-IPN, Mexico *(Expected Jul 2026)*
-- **Fellowship** — NF-POGO Centre of Excellence, Dalhousie University, Canada *(2024–2025)*
-- **MSc in Marine Resources Management** — CICIMAR-IPN, Mexico *(2022)*
-- **BSc in Automation Engineering** — CUJAE, Cuba *(2015)*
+- **PhD in Marine Sciences** - CICIMAR-IPN, Mexico *(Expected Jul 2026)*
+- **Fellowship** - NF-POGO Centre of Excellence, Dalhousie University, Canada *(2024–2025)*
+- **MSc in Marine Resources Management** - CICIMAR-IPN, Mexico *(2022)*
+- **BSc in Automation Engineering** - CUJAE, Cuba *(2015)*
 
 ## Let's Connect
 
