@@ -8,7 +8,7 @@ I bridge the gap between rigorous systems engineering and marine science. As an 
 
 - **Kelp Forest Dynamics:** Detecting *Nereocystis luetkeana* and *Macrocystis pyrifera* from Sentinel-2 imagery across the Northeast Pacific (2015–2025).
 - **Kelp Spore Dispersal Modeling:** Simulating population connectivity in British Columbia using the FVCOM hydrodynamic model (804K-node unstructured mesh) paired with OpenDrift/OceanParcels Lagrangian particle tracking.
-- **Sargassum Detection:** Classifying pelagic Sargassum in the Caribbean Sea and Equatorial Atlantic using machine learning pipelines on Aqua-MODIS, Sentinel-3 OLCI, Sentinel-2 MSI, and Landsat-8/9 OLI data.
+- ***Sargassum* Detection:** Classifying pelagic *Sargassum* in the Caribbean Sea and Equatorial Atlantic using machine learning pipelines on Aqua-MODIS, Sentinel-3 OLCI, Sentinel-2 MSI, and Landsat-8/9 OLI data.
 
 ## Tech Stack & Tools
 
