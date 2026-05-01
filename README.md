@@ -2,7 +2,7 @@
 
 **Oceanographer & Geospatial Scientist | Former Automation Engineer**
 
-I bridge the gap between rigorous systems engineering and marine science. As an automation engineer turned PhD Candidate in Marine Sciences, I build end-to-end data pipelines for satellite remote sensing and develop ocean hydrodynamic models to study ecological connectivity. 
+I bridge the gap between systems engineering and marine science. As an automation engineer turned PhD Candidate in Marine Sciences, I build end-to-end data pipelines for satellite remote sensing and develop ocean hydrodynamic models to study ecological connectivity. 
 
 ## What I'm Working On
 
