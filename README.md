@@ -1,14 +1,32 @@
 # Hi, I'm José Manuel
 
-**Oceanographer & Geospatial Scientist | Former Automation Engineer**
+**Oceanographer & Geospatial Scientist | PhD Marine Sciences | Former Automation Engineer**
 
-I bridge the gap between systems engineering and marine science. As an automation engineer turned PhD Candidate in Marine Sciences, I build end-to-end data pipelines for satellite remote sensing and develop ocean hydrodynamic models to study ecological connectivity. 
+I bridge the gap between systems engineering and marine science. As an automation engineer turned Marine Sciences scientist, I build end-to-end data pipelines for satellite remote sensing and develop ocean hydrodynamic/Lagrangian models to study ecological connectivity.
+
+## PhD Thesis results
+- **ML/DL framework for *Sargassum* detection: spectral library of **196,037 signatures**, 5 classifiers (RF, KNN, XGBoost, MLP, 1D-CNN), all **macro F1 > 0.976**.
+- **Physics+ML Lagrangian drift model: **Liu–Weisberg skill 0.533 → 0.827** (validated on 12 GPS drifters, NIOZ *Weeds of Change* expedition, RV *Pelagia* 2024).
+- **GMM partition of 10-variable ocean data cube → **10 oceanographic regimes** governing sargassum biogeography.
+- **Kelp canopy mapping: GPU 2D CNN (SepConv-SE), **F1 = 0.95, 98.3% precision**, decadal 2015–2025 time series.
 
 ## What I'm Working On
 
-- **Kelp Forest Dynamics:** Detecting *Nereocystis luetkeana* and *Macrocystis pyrifera* from Sentinel-2 imagery across the Northeast Pacific (2015–2025).
-- **Kelp Spore Dispersal Modeling:** Simulating population connectivity in British Columbia using the FVCOM hydrodynamic model (804K-node unstructured mesh) paired with OpenDrift/OceanParcels Lagrangian particle tracking.
-- ***Sargassum* Detection:** Classifying pelagic *Sargassum* in the Caribbean Sea and Equatorial Atlantic using machine learning pipelines on Aqua-MODIS, Sentinel-3 OLCI, Sentinel-2 MSI, and Landsat-8/9 OLI data.
+- **Kelp Forest Dynamics:** Detecting *Nereocystis luetkeana* and *Macrocystis pyrifera* from Sentinel-2 imagery across the Northeast Pacific.
+- **Kelp Spore Dispersal Modeling:** Simulating population connectivity using the FVCOM hydrodynamic model (unstructured mesh) paired with OpenDrift/OceanParcels Lagrangian particle tracking.
+- ***Sargassum* Detection:** Classifying pelagic *Sargassum* in the Caribbean Sea and Equatorial Atlantic using machine learning pipelines on Aqua-MODIS, Sentinel-3 OLCI, Sentinel-2 MSI, and Landsat-8/9 OLI data. `https://doi.org/10.5281/zenodo.17246345`
+
+## Research Interests
+- **mCDR/MRV (marine carbon dioxide removal monitoring), kelp & sargassum remote sensing, Lagrangian connectivity, and ML calibration of ocean models
+
+## Publications
+- **Echevarría-Rubio, J.M.**, Martínez-Flores, G., Morales-Pérez, R.A. (2025).
+  *Machine and Deep Learning Framework for Sargassum Detection and Fractional Cover Estimation Using Multi-Sensor Satellite Imagery.* **Data**, 10(11), 177.
+  [doi:10.3390/data10110177](https://doi.org/10.3390/data10110177)
+- Mullan, S., ... **Echevarría Rubio, J.M.**, ... (2025).
+  *Accessible Ocean Monitoring Technologies in Developing Countries: NF-POGO Global Scholar Perspectives on Low-Cost Solutions.* **The Journal of Ocean Technology**.
+  [doi:10.48336/ktd4-k787](https://doi.org/10.48336/ktd4-k787)
+- **Under review:** ML velocity correction for Lagrangian Sargassum drift modelling (OpenDrift + OceanParcels cross-validation).
 
 ## Tech Stack & Tools
 
@@ -40,8 +58,8 @@ I bridge the gap between systems engineering and marine science. As an automatio
 
 ## Background
 
-- **PhD in Marine Sciences** - CICIMAR-IPN, Mexico *(Expected Jul 2026)*
-- **Fellowship** - NF-POGO Centre of Excellence, Dalhousie University, Canada *(2024–2025)*
+- **PhD in Marine Sciences** — CICIMAR-IPN, Mexico *(2022–2026)*. Thesis: *"Dynamics of pelagic sargassum and the environmental factors controlling its proliferation in the Equatorial Atlantic and the Caribbean Sea*
+- **Nippon Foundation–POGO Centre of Excellence Fellowship** (2024–2025) — 10-month residential program, Memorial University + Hakai Institute + Dalhousie University*
 - **MSc in Marine Resources Management** - CICIMAR-IPN, Mexico *(2022)*
 - **BSc in Automation Engineering** - CUJAE, Cuba *(2015)*
 
@@ -50,3 +68,4 @@ I bridge the gap between systems engineering and marine science. As an automatio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-echevarria-aquab1t)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5332-8683)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jechevarriar17@gmail.com)
+`github-readme-stats`
