@@ -57,8 +57,8 @@ As an automation engineer turned Marine Sciences scientist, I build end-to-end d
 
 ## Background
 
-- **PhD in Marine Sciences** — CICIMAR-IPN, Mexico *(2022–2026)*. Thesis: *"Dynamics of pelagic sargassum and the environmental factors controlling its proliferation in the Equatorial Atlantic and the Caribbean Sea*
-- **Nippon Foundation–POGO Centre of Excellence Fellowship** (2024–2025) — 10-month residential program, Memorial University + Hakai Institute + Dalhousie University*
+- **PhD in Marine Sciences** - CICIMAR-IPN, Mexico *(2022–2026)*. Thesis: *"Dynamics of pelagic sargassum and the environmental factors controlling its proliferation in the Equatorial Atlantic and the Caribbean Sea*
+- **Nippon Foundation-POGO Centre of Excellence Fellowship** (2024–2025) - 10-month residential program, Memorial University + Hakai Institute + Dalhousie University*
 - **MSc in Marine Resources Management** - CICIMAR-IPN, Mexico *(2022)*
 - **BSc in Automation Engineering** - CUJAE, Cuba *(2015)*
 
