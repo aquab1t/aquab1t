@@ -16,7 +16,7 @@ As an automation engineer turned Marine Sciences scientist, I build end-to-end d
 - ***Sargassum* Detection:** Classifying pelagic *Sargassum* in the Caribbean Sea and Equatorial Atlantic using machine learning pipelines on Aqua-MODIS, Sentinel-3 OLCI, Sentinel-2 MSI, and Landsat-8/9 OLI data. `https://doi.org/10.5281/zenodo.17246345`
 
 ## Research Interests
-- **mCDR/MRV (marine carbon dioxide removal monitoring), kelp & sargassum remote sensing, Lagrangian connectivity, and ML calibration of ocean models
+- mCDR/MRV (marine carbon dioxide removal monitoring), kelp & sargassum remote sensing, Lagrangian connectivity, and ML calibration of ocean models
 
 ## Publications
 - **Echevarría-Rubio, J.M.**, Martínez-Flores, G., Morales-Pérez, R.A. (2025).
