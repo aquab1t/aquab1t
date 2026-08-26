@@ -5,10 +5,10 @@
 As an automation engineer turned Marine Sciences scientist, I build end-to-end data pipelines for satellite remote sensing and develop ocean hydrodynamic/lagrangian models to study ecological connectivity.
 
 ## PhD Thesis results
-- **ML/DL framework for *Sargassum* detection: spectral library of **196,037 signatures**, 5 classifiers (RF, KNN, XGBoost, MLP, 1D-CNN), all **macro F1 > 0.976**.
-- **Physics+ML Lagrangian drift model: **Liu–Weisberg skill 0.533 → 0.827** (validated on 12 GPS drifters, NIOZ *Weeds of Change* expedition, RV *Pelagia* 2024).
-- **GMM partition of 10-variable ocean data cube → **10 oceanographic regimes** governing sargassum biogeography.
-- **Kelp canopy mapping: GPU 2D CNN (SepConv-SE), **F1 = 0.95, 98.3% precision**, decadal 2015–2025 time series.
+- ML/DL framework for *Sargassum* detection: spectral library of **196,037 signatures**, 5 classifiers (RF, KNN, XGBoost, MLP, 1D-CNN), all **macro F1 > 0.976**.
+- Physics+ML Lagrangian drift model: **Liu–Weisberg skill 0.533 → 0.827** (validated on 12 GPS drifters, NIOZ *Weeds of Change* expedition, RV *Pelagia* 2024).
+- GMM partition of 10-variable ocean data cube → **10 oceanographic regimes** governing sargassum biogeography.
+- Kelp canopy mapping: GPU 2D CNN (SepConv-SE), **F1 = 0.95, 98.3% precision**, decadal 2015–2025 time series.
 
 ## What I'm Working On
 
