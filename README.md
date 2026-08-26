@@ -2,7 +2,7 @@
 
 **Oceanographer & Geospatial Scientist | PhD Marine Sciences | Former Automation Engineer**
 
-As an automation engineer turned Marine Sciences scientist, I build end-to-end data pipelines for satellite remote sensing and develop ocean hydrodynamic/Lagrangian models to study ecological connectivity.
+As an automation engineer turned Marine Sciences scientist, I build end-to-end data pipelines for satellite remote sensing and develop ocean hydrodynamic/lagrangian models to study ecological connectivity.
 
 ## PhD Thesis results
 - **ML/DL framework for *Sargassum* detection: spectral library of **196,037 signatures**, 5 classifiers (RF, KNN, XGBoost, MLP, 1D-CNN), all **macro F1 > 0.976**.
